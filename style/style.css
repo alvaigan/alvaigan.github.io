@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+body {
+  font-family: "Roboto Slab", serif;
+}
+
+.text-purple {
+  color: #9b59b6;
+}
